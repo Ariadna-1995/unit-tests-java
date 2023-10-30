@@ -11,7 +11,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 
 class SomeServiceTest {
-    // 3.1.**************************************************************************
+
     SomeService service;
 
     @BeforeEach
